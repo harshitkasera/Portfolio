@@ -2,17 +2,17 @@ const Data = [
     {
         img: "./Uploads/first.jpeg",
         name: "Curd Opration",
-        desc: "this is my first project employee managment"
+        desc: "This is my First Project 'Employee-Managment' "
     },
     {
         img: "./Uploads/Ecommerce.jpeg",
         name: "Ecommerce Website",
-        desc: "This is my second project and inside data, add cart and calculation fully workable"
+        desc: "This is my Second Project 'Ecommerce' "
     },
     {
         img: "./Uploads/crud.jpeg",
-        name: "fully crud operation",
-        desc: "This is my Third project and inside login, signup and forgot password"
+        name: "Fully Crud Operation",
+        desc: "This is my Third project and 'forgot password' "
     },
 ]
 module.exports = Data
